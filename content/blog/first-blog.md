@@ -10,4 +10,6 @@ cover:
     image: 'img/header.png'
 ---
 
-# New Blogs Home
+# New Blogs Home For Real
+
+## Sub headings here
